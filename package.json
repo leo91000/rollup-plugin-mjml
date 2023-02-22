@@ -1,7 +1,7 @@
 {
   "name": "@yamakasinge/rollup-plugin-mjml",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A rollup plugin that export your file as the result of a mjml2html() function",
   "author": "Léo Coletta <contact@leo-coletta.fr>",
   "license": "MIT",
